@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Backend in Web Development
--  I’m currently learning node.js and Express.js
--  - 📫 How to reach me: Call on +918527646170 or drop an e-mail at saumyasingh07@icloud.com or saumyaaaa98@gmail.com
+- 🌱 I’m currently learning node.js and Express.js
+- 📫 How to reach me: Call on +918527646170 or drop an e-mail at saumyasingh07@icloud.com or saumyaaaa98@gmail.com
 <!--
 **saumyasingh20/saumyasingh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
