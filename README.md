@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack Development
+- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning node.js and Express.js
 - 📫 How to reach me: Call me on +918527646170 or drop an e-mail at saumyasingh07@icloud.com
 <!--
