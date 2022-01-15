@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning node.js and Express.js
-- 📫 How to reach me: Call me @ +918527646170 or drop an e-mail @ saumyasingh07@icloud.com
+- 📫 How to reach me: Call me @ 8527646170 or you can always drop an e-mail @ saumyasingh07@icloud.com
 <!--
 **saumyasingh20/saumyasingh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
