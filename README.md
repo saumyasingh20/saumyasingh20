@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning node.js and Express.js
+- 🔭 I’m currently working at Operative
+- 🌱 I’m currently getting trained at Advanced Java, MySQL, MongoDB, Angular, Spring Boot
 - 📫 How to reach me: You can always drop an e-mail @ saumyasingh07@icloud.com
 <!--
 **saumyasingh20/saumyasingh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
