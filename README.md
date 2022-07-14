@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Operative!
+- 🔭 I’m currently working at Operative !
 - 🌱 I’m currently getting trained at Advanced Java, MySQL, MongoDB, Angular, Spring Boot, Hibernate
 - 📫 How to reach me: You can always drop an e-mail @ saumyasingh07@icloud.com
 <!--
