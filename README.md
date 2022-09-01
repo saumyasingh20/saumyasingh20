@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Operative !
-- 🌱 I’m currently getting trained at Advanced Java, MySQL, MongoDB, Angular, Spring Boot, Hibernate
+- 🔭 I’m currently working at Operative Media,Bangalore as a Developer !
+- 🌱 Skill Set :  Advanced Java, MySQL, MongoDB, Angular, Spring Boot, Hibernate
 - 📫 How to reach me: You can always drop an e-mail @ saumyasingh07@icloud.com
 <!--
 **saumyasingh20/saumyasingh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
